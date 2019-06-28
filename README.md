@@ -1,2 +1,2 @@
-# NACs_Project
-Instead of Discord Server
+# NACs_Projectd
+一応Discordの代用です
